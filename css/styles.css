@@ -1,0 +1,37 @@
+body {
+    color:#404040;
+    background-color:beige;
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 200;
+    margin: 0px;
+    padding: 0px;
+}
+#tribute-data {
+margin: auto 15px auto 15px;
+line-height: 2;
+}
+
+#title {
+
+    text-align:center;
+    font-size: 50px;
+}
+#img{
+    text-align:center
+}
+#image {
+    max-width:100%;
+    height:auto;
+    flex-direction:left ;
+    width: 750px;
+}
+.title-APJ {
+    text-align: center;
+}
+#caption {
+    font-size:25px;
+    font-family:'Sacramento', cursive;
+}
+#footer {
+    margin:20px 30px 20px 30px;
+}
